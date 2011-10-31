@@ -1,0 +1,11 @@
+CONFIGURE:
+
+edit main.py between  ## start of config part ## and ## end of config part ## 
+change your server, login, pass and other credentials
+
+USE:
+scan mode:
+./main.py
+drop mode:
+./main.py drop
+
